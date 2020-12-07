@@ -8,7 +8,7 @@ When dealing with large datasets, challenges are often imminent, if not solely i
 Challenges can come in an array of forms, from diffuclty understanding and executing the proper formula to filtering the “wrong” data (data not to pertinent to the question at hand) or, data becoming scattered from filtering, errors like typos, understanding what is needed from the presented dataset (_What **is it**  we really want to know?_).
 
 * _Remedies for Challenges_:
-  * Before starting analysis, make a copy of the original "untreated" data set and save it as a REF (reference) file. 
+  * Before starting analysis, make a copy of the original "untreated" data set and save it as a REF (reference) file 
 
   * Double check for typos that may yield an error when using a formula 
      * _For example,_ If you are using a formula such as, =COUNTIFS(), to reference a column containing the data value “successful”, but the input was “succesful” (typo) in the formula you may get an error
@@ -38,7 +38,7 @@ Challenges can come in an array of forms, from diffuclty understanding and execu
    1.	The most successful campaigns were where the goal target was less than $5,000.
 
   ### Summary: Final Thoughts
-   * While analysis data of past outcomes offer a glimpse in what we can maybe expect, and ultimately the what the next steps should be, as the analysis is  _only_  reflective of a sample set up to a certain point in time.  
+   * While analysis data of past outcomes offer a glimpse in what we can maybe expect, and ultimately what the next steps should be, as the analysis is  _only_  reflective of a sample set up to a certain point in time.  
   * In addition to illustrating the outcome of data in line charts, other visual aids or chart types, such as column cluster, pie, line with markers, stacked bar would be equally effective at showcasing a clean, straightforward analysis. 
 
 
