@@ -31,7 +31,7 @@ Challenges can come in an array of forms, from diffuclty understanding and execu
   ### Analysis of Outcomes Based on Launch Date
   Based on the results presented in Theater Outcomes by Launch Date analysis, it would appear:
    1.	Fundraising campaigns launched in May were most successful, with June not too far behind. 
-   2.	On average 3 campaigns were canceled out of 1369 launched. 
+   2.	On average 3 campaigns were canceled out of 1369 play fundraisers launched. 
 
   ### Analysis of Outcomes Based on Goals
   Based on the results presented in Outcomes Based on Goals analysis, it would appear:
