@@ -5,7 +5,7 @@ Helping client, Louise, identify and unearth trends on a dataset consisting of o
 Equally, the purpose of this project was to not only look at the data at large, to answer questions, but to provide insights on a minute level on a case-by-case scenario.  
 ## Analysis and Challenges
 When dealing with large datasets, challenges are often imminent, if not solely inevitable. This does not translate to be a bad thing—it, instead presents an opportunity to really zero in and find the best possible solutions on just how to evaluate this data. 
-Challenges can come in an array of forms, from understanding and executing the proper formula to filtering the “wrong” data (data not to pertinent to the question at hand) or, data becoming scattered from filtering, errors like typos, understanding what is needed from the presented dataset (_What **is it**  we really want to know?_).
+Challenges can come in an array of forms, from diffuclty understanding and executing the proper formula to filtering the “wrong” data (data not to pertinent to the question at hand) or, data becoming scattered from filtering, errors like typos, understanding what is needed from the presented dataset (_What **is it**  we really want to know?_).
 
 * _Remedies for Challenges_:
   * Before starting analysis, make a copy of the original "untreated" data set and save it as a REF (reference) file. 
