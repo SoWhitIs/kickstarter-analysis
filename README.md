@@ -1,4 +1,4 @@
-# Kickstarter Analysis: _Action!_
+ _Action!_ || Kickstarter Analysis
 
 ## Overview of Project
 Helping client, Louise, identify and unearth trends on a dataset consisting of over 4,000 Kickstarter campaigns, ranging across various Media and Entertainment Arts branches, where findings would aid in decisions that can be implemented in future fundraising efforts, with the use of Excel to perform the former data analysis and create visual elements, i.e. charts, graphs and pivot tables. 
