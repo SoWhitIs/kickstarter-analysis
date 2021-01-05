@@ -43,4 +43,4 @@ Challenges can come in an array of forms, from diffuclty understanding and execu
 
 
 #### Author
-Whitney Gardner
+_Whitney D. Gardner_
