@@ -2,9 +2,11 @@
 
 ## Overview of Project
 Helping client, Louise, identify and unearth trends on a dataset consisting of over 4,000 Kickstarter campaigns, ranging across various Media and Entertainment Arts branches, where findings would aid in decisions that can be implemented in future fundraising efforts, with the use of Excel to perform the former data analysis and create visual elements, i.e. charts, graphs and pivot tables. 
-Equally, the purpose of this project was to not only look at the data at large, to answer questions, but to provide insights on a minute level on a case-by-case scenario. ## Resources
+Equally, the purpose of this project was to not only look at the data at large, to answer questions, but to provide insights on a minute level on a case-by-case scenario.
 
-•	Software: Microsoft Excel | VBA
+## Resources
+
+•	Software: Microsoft Excel
 
 ## Analysis and Challenges
 When dealing with large datasets, challenges are often imminent, if not solely inevitable. This does not translate to be a bad thing—it, instead presents an opportunity to really zero in and find the best possible solutions on just how to evaluate this data. 
