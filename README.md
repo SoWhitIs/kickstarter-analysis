@@ -46,6 +46,8 @@ Challenges can come in an array of forms, from diffuclty understanding and execu
    * While analysis data of past outcomes offer a glimpse in what we can maybe expect, and ultimately what the next steps should be, it could pose limitations, as the analysis is  _only_  reflective of a sample set up to a certain point in time.  
   * In addition to illustrating the outcome of data in line charts, other visual aids or chart types, such as column cluster, pie, line with markers, stacked bar would be equally effective at showcasing a clean, straightforward analysis. 
 
+---
 
 #### Author
+
 _Whitney D. Gardner_
